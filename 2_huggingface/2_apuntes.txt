@@ -1,0 +1,8 @@
+* Introducción a Huggingface
+- Comunidad que está ampliando los límites del aprendizaje automático.
+- Biblioteca "Transformers" 
+  - Tiene muchos modelos preentrenados como Bert, GPT y mucho más.
+- Se cree que es el Github de la IA.
+- HuggingFace es flexible, ya que admite tanto TensorFLow como PyTorch.
+
+

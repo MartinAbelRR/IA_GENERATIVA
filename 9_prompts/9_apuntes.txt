@@ -1,0 +1,6 @@
+* Prompts
+- Nos ayuda a diseñar nuestras indicaciones, porque sabemos que el poder de los grandes modelos lingüísticos reside en cómo proporcionamos exactamente las indicaciones ("prompts").
+
+1. Prompt Templates: Nos ayudará a dar indicaciones constructivas al modelo para que obtenga los resultados deseados.
+2. Example Selectors: Proporcionarle ejemplos al LLM para tener mejores resultados.
+3. Output Parsers: Formato de salida de la respuesta del LLM (JSON, XML, CSV).

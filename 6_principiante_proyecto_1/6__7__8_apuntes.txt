@@ -1,0 +1,5 @@
+* Módulo de Modelos
+- LLMs *: Toma los prompts como entrada para generar una salida, que puede ser una terminación de culaquier texto que se quiera generar.
+- Chat Models: Los modelos de chat son un tipo avanzado d modelos lingüísticos que pueden generar respuestas similares a las humanas, que son muy parecidas a la forma en que chateamos con nuestros amigos y obtenemos respuesta de ellos.
+- Text Embedding Models: Los modelos de incrustación de texto es una representación numérica de palabras, frases o cualquier caracter, como sabemos, los sistemas son los ordenadores que nos comunicamos que se utilizan hoy en día, solo aceptan entrada numérica, y no entienden el lenguaje natural que utilizamos para comunicarnos entre nosotros.
+ 

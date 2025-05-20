@@ -1,0 +1,6 @@
+* Agentes
+Ayudantes que tienen acceso a la caja de herramientas y pueden decidir qué herramientas utilizar en función de lo que quiere el usuario.
+
+- Agente de Acción
+- Agente de Planificación y Ejecución
+

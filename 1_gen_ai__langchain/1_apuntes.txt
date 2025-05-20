@@ -1,0 +1,23 @@
+* Introducción a la IA Generativa
+1. IA Generativa
+- Rama de la inteligencia artificial, que se centra en crear nuevos contenidos, ya sean textos, imágenes, música o incluso código, basando se en patrones que ha aprendido de los datos que se le han proporcionado, los generará.
+- Diferencia con la IA tradicional que clasifica o predice basándose en datos existentes, la IA generativa crea realmente los nuevos datos.
+- Diferentes arquitecturas:
+  - Transformers
+  - GANS (Generative Adversarial Networks)
+
+2. ¿Qué es LangChain? ¿Por qué LangChain?
+- Framework: Conjunto de herramientas que nos brindan y que podemos modificar o añadirle nuevos componentes, para crear aplicaciones más complejas.
+- LLM (Large Language Model) 
+  - LLMs son modelos que se entrenaron en cantidades masivas de datos, a través de los cuales fueron capaces de aprender los patrones y la relación entre los diferentes componentes disponibles en ella.
+  - Actualmente te estos LLMs están disponibles en el mercado y podemos utilizarlo directamente a través de las API.
+- LangChain
+  - LangChain es un framework open-source que facilita al desarrollador con las herramientas necesarias para crear aplicaciones respaldadas por nuestros LLM.
+  - Se considera como algunos bloques que ayudan a comunicarte con diferentes LLMs disponibles en el mercado, para que puedas crear un pipeline de este LLM en particular, que hable con diferentes fuentes de datos y te ayude a acelerar el desarrollo de la aplicación, y que eventualmente ayude a crear proyectos complejos que involucren el uso de múltiples LLM's y muchas otras librerías.
+  
+3. Beneficios de LangChain
+- Permite vincular su LLM a otras fuentes de datos, así nos aseguramos que nuestra aplicación este al día de lo que ocurre.
+- Permite crear agentes (asistentes virtuales) que utilizarán el LLM para decir qué hacer y cómo hacerlo.
+- Puede encadenar varias llamadas a un LLM u otras utilidades.
+
+You can chain togheter several calls to an LLM or other utilities using LAngChaing. This enable the development of more admandec projects that are a capatable of handling many different task.

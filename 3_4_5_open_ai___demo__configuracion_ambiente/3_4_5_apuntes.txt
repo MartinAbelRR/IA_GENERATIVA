@@ -1,0 +1,17 @@
+* Introducción a OpenAI
+- Laboratorio de investigación de inteligencia artificial que antes era una organización sin ánimo de lucro, pero que ahora tiene ánimo de lucro y ha proporcionado potentes modelos lingüísticos que se utilizan en todo el mundo.
+- Productos y servicios que ofrecen:
+  - GPT-3 (Transformador Generativo Preentrenado).
+  - ChatGPT
+  - Codex
+  - DALL-E
+  - OpenAI API
+  - Whisper
+  
+* Modulos de LangChain
+- Model I/O.
+- Prompts.
+- Chains.
+- Retrieval/Indexes.
+- Agents.
+- Memory.

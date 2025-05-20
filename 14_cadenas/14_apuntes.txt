@@ -1,0 +1,3 @@
+* Chains
+- Cadenas Genéricas: Básicas en las que utilizamos solo un LLM para generar texto en función de la instrucción que le demos al modelo.
+- Cadenas Utilitarias: Utiliza varios LLM juntos para una tarea específica 

@@ -1,0 +1,9 @@
+* Conexión de Data 
+Los conectores de data actúan como puente entre los documentos y el modelo de lenguaje.
+
+* Arquitetura
+- Document Loaders 
+- Document transformers
+- Text embedding models
+- Vector Stores
+- Retrievers
